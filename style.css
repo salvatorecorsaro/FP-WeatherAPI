@@ -1,0 +1,38 @@
+#input_city {
+    width: 400px;
+}
+ #top {
+     margin-top: 100px;
+ }
+.center {
+    margin: 10px;
+    width: auto;
+    
+    padding: 10px;
+    text-align: center;
+  }
+
+  #answer {
+      text-align: center;
+      font-weight: bold;
+  }
+
+  #background {
+      background-image: url(background.jpg);
+      width: fit-content;
+      background-position: center;
+      background-size: cover;
+      height: 100%;
+      min-height: 100vh;
+      background-attachment: fixed;
+      
+  }
+
+  .main {
+      background-color: rgba(255, 255, 255, 0.514);
+      
+  }
+   p, h1 {
+    font-family: 'Roboto', sans-serif;
+   }
+
